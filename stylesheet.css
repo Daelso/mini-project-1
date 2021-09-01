@@ -13,6 +13,16 @@ body{
 
 #button_pos{
     position: relative;
-    top: -55px;
-    left: 280px;
+    bottom: 56px;
+    left: 555px;
+}
+
+.container {
+  width: 500px;
+  clear: both;
+}
+
+.container input {
+  width: 100%;
+  clear: both;
 }
