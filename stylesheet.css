@@ -3,7 +3,7 @@ body{
 }
 
 
-#warning{
+.warning{
     color: red;
 }
 
@@ -25,4 +25,10 @@ body{
 .container input {
   width: 100%;
   clear: both;
+}
+
+.img_pos_2{
+    position: absolute;
+    left: 741px;
+    bottom: 438px;
 }
